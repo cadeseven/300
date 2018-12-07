@@ -167,6 +167,20 @@ a.title:link {
 		animation-timing-function: linear;
 		}
 
+	.link10 {
+		text-align: center;
+		font-family: helvetica-bold;
+		font-size: 50px;
+		line-height: 100px;
+		position:fixed;
+
+		animation-name: ani2;
+		animation-duration: 3s;
+		animation-iteration-count: infinite;
+		animation-direction: alternate;
+		animation-timing-function: linear;
+		}
+
 	@keyframes ani1 {
 	    from { margin-right: 90%;
 	}
